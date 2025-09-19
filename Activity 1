@@ -1,0 +1,29 @@
+// If else condition
+
+public class Main {
+public static void main(String[] args) {
+int grade = 100;
+if (grade > 75) {
+System.out.println("Congrats, You passed!");
+} else {
+System.out.println("Congrats, You failed! hehe");
+
+
+//output
+Congrats, You passed!
+
+}
+//input
+public class Main {
+public static void main(String[] args) {
+int grade = 100;
+if (grade < 75) {
+System.out.println("Congrats, You passed!");
+} else {
+System.out.println("Congrats, You failed! hehe");
+
+
+//output
+Congrats, You failed! hehe
+
+}
